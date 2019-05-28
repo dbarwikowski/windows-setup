@@ -13,5 +13,5 @@ We are using [Chocolatey](https://chocolatey.org/) to make life easier.
 ## Windows
 
 Includes:
--Google Chrome
--Notepad++
+- Google Chrome
+- Notepad++
